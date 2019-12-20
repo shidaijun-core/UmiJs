@@ -11,6 +11,9 @@ export default function() {
       <Link to={"/user/user"}>进入user页面</Link><br/>
       <Link to={"/login"}>进入login页面</Link><br/>
       <Link to={"/test"}>进入test页面</Link><br/>
+
+
+
     </div>
   );
 }
